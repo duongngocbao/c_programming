@@ -1,2 +1,3 @@
 # c_programming
-learn C
+learn C 0 to zero
+
